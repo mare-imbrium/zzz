@@ -13,3 +13,5 @@ but you also have to do a
 
 so that a `.git` folderis made in the working project dir.
 
+Changed name to kepler
+
